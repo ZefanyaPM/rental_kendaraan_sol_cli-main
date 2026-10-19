@@ -4,6 +4,12 @@
 	"java.project.referencedLibraries": ["lib/**/*.jar"],
 	"editor.fontSize": 20,
 	"java.debug.settings.console": "integratedTerminal",
+	"java.inlayHints.parameterNames.enabled": "none",
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"notebook.defaultFormatter": "esbenp.prettier-vscode"
+	"notebook.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeLens": true,
+	"editor.inlineSuggest.enabled": true,
+	"[java]": {
+		"editor.defaultFormatter": "Oracle.oracle-java"
+	}
 }

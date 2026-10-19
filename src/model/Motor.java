@@ -24,6 +24,6 @@ public class Motor extends Kendaraan implements WajibSIM{
 
         @Override
         public String getGolonganSIM() {
-                return "SIM C";
+                return "C";
         }
 }

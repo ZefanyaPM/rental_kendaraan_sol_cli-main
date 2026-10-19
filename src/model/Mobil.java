@@ -21,7 +21,7 @@ public class Mobil extends Kendaraan implements WajibSIM, WajibJaminan {
 
         @Override
         public String getGolonganSIM() {
-                return "SIM A";
+                return "A";
         }
 
         @Override
